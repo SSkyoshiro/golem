@@ -13,5 +13,5 @@ func main() {
 	fmt.Println(model.Cong(1, 2))
 	fmt.Println("hello")
 	fmt.Println("quyet")
-	fmt.Println("vip")
+
 }
