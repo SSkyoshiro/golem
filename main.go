@@ -1,7 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"golem/controller"
+)
 
 func main() {
-	fmt.Println("hello worl")
+	fmt.Println("hello world")
+	name := controller.Hellonew("quyet")
+	fmt.Println(name)
+
 }
