@@ -11,5 +11,5 @@ func main() {
 	name := controller.Hellonew("quyet")
 	fmt.Println(name)
 	fmt.Println(model.Cong(1, 2))
-
+	fmt.Println("hello")
 }
