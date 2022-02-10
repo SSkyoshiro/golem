@@ -1,6 +1,6 @@
 package controller
 
 func Hellonew(name string) string {
-	hi := "hello " + name
-	return hi
+	hit := "hello " + name
+	return hit
 }
